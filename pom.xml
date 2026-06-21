@@ -6,7 +6,7 @@
 
     <groupId>org.bardframework</groupId>
     <artifactId>bard-parent</artifactId>
-    <version>27</version>
+    <version>28</version>
 
     <packaging>pom</packaging>
 
